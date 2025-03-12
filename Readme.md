@@ -25,3 +25,6 @@ PRIVATE_KEY=ISI PK MU
 ```bash
 node main.js
 ```
+```bash
+Kalau bot berhenti ya jalankan lagi node main.js , wajar rpc overload digangbang ribuan users
+```
