@@ -15,7 +15,7 @@ npm install ethers@5 dotenv
 ```
 
 ```bash
-touch .env
+nano .env
 ```
 
 ```bash
